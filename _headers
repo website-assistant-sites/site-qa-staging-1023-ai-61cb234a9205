@@ -1,0 +1,11 @@
+/*
+  X-Robots-Tag: noindex, nofollow, noarchive
+  Content-Security-Policy: default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src https://website-assistant-staging-jn2qrogbqa-ew.a.run.app/api/forms/qa-staging-1023-create-58bab823975be24ad68eb0bc0424bdcf/availability https://website-assistant-staging-jn2qrogbqa-ew.a.run.app/api/forms/qa-staging-1023-create-58bab823975be24ad68eb0bc0424bdcf/submissions; media-src 'self'; object-src 'none'; frame-src 'none'; worker-src 'none'; base-uri 'none'; form-action 'none'
+  Referrer-Policy: no-referrer
+
+/legal
+  ! X-Robots-Tag
+  Cache-Control: no-cache
+/legal/*
+  ! X-Robots-Tag
+  Cache-Control: no-cache
